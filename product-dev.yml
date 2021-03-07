@@ -13,7 +13,7 @@ spring:
   jpa:
     show-sql: true
 env:
-  dev666
+  dev999
 girl:
   name:lili
   age:18

@@ -13,7 +13,7 @@ spring:
   jpa:
     show-sql: true
 env:
-  test123
+  test123123
 girl:
   name:lili
   age:18
